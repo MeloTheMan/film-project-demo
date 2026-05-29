@@ -1,0 +1,143 @@
+[
+  {
+    "id": "le-gout-du-vin-de-palme",
+    "title": "Le Goût du Vin de Palme",
+    "originalTitle": "The Taste of Palm Wine",
+    "tagline": "Entre exil, mémoire coloniale et comédie politique",
+    "year": 2024,
+    "duration": 95,
+    "country": "Cameroun",
+    "language": "Français, Anglais",
+    "genre": ["Afrofuturisme", "Drame", "Comédie"],
+    "synopsis": {
+      "short": "Un voyage afrofuturiste entre Paris et l'Afrique, où un cinéaste camerounais confronte son passé colonial et son présent en exil.",
+      "long": "Fuyant sa fille qui n'a d'yeux que pour son héritage et l'accuse de le dilapider, Ariane, la femme la plus riche de France, s'échappe de son hôtel particulier. Avec son chauffeur africain, Aristide, au volant de sa Bentley, elle erre dans Paris. Ariane s'intéresse pour la première fois à la personnalité de cet homme noir jusque-là 'invisible', et pourtant à son service depuis dix ans. L'Afrique va s'imposer à elle dans les récits d'Aristide, la nourriture et le vin de palme. Cette aventure devient la bouée de sauvetage de l'impasse familiale dans laquelle elle se trouve."
+    },
+    "director": {
+      "name": "Jean-Pierre Bekolo",
+      "slug": "jean-pierre-bekolo"
+    },
+    "cast": [
+      {
+        "name": "Carolyn Ducrocq",
+        "role": "Ariane"
+      },
+      {
+        "name": "Emil Abossolo Mbo",
+        "role": "Aristide"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jean-Pierre Bekolo",
+        "role": "Réalisateur, Scénariste"
+      },
+      {
+        "name": "Marie-Claire Nebout",
+        "role": "Productrice"
+      }
+    ],
+    "poster": "/images/films/vin-de-palme-poster.jpg",
+    "backdrop": "/images/films/vin-de-palme-backdrop.jpg",
+    "trailer": "https://www.youtube.com/watch?v=example",
+    "gallery": [
+      "/images/films/vin-de-palme-1.jpg",
+      "/images/films/vin-de-palme-2.jpg",
+      "/images/films/vin-de-palme-3.jpg"
+    ],
+    "festivals": [
+      {
+        "name": "Festival de Cannes",
+        "year": 2024,
+        "section": "Quinzaine des Cinéastes",
+        "award": null
+      },
+      {
+        "name": "FESPACO",
+        "year": 2025,
+        "section": "Compétition Officielle",
+        "award": "Prix Spécial du Jury"
+      }
+    ],
+    "press": [
+      {
+        "outlet": "Cahiers du Cinéma",
+        "quote": "Une œuvre visionnaire qui redéfinit le cinéma africain contemporain.",
+        "author": "Marie Dupont",
+        "date": "2024-05-15"
+      },
+      {
+        "outlet": "Le Monde",
+        "quote": "Bekolo signe son film le plus ambitieux et le plus personnel.",
+        "author": "Jean Martin",
+        "date": "2024-06-20"
+      }
+    ],
+    "directorNote": "Ce film est une méditation sur ce que signifie être africain au 21ème siècle. J'ai voulu créer un espace où les contradictions de notre époque - entre tradition et modernité, entre l'Afrique et sa diaspora, entre le passé colonial et l'avenir afrofuturiste - peuvent coexister et dialoguer. Le vin de palme devient ici une métaphore de cette identité complexe : enracinée dans la terre africaine, mais capable de fermenter et de se transformer.",
+    "themes": ["Afrofuturisme", "Exil", "Mémoire coloniale", "Identité", "Néocolonialisme"],
+    "relatedArticles": ["afrofuturisme-cinema-africain", "entretien-bekolo-2024"],
+    "pressKit": "/downloads/le-gout-du-vin-de-palme-dossier.pdf"
+  },
+  {
+    "id": "quartier-mozart",
+    "title": "Quartier Mozart",
+    "originalTitle": "Quartier Mozart",
+    "tagline": "Une comédie fantastique sur le pouvoir et le genre",
+    "year": 1992,
+    "duration": 80,
+    "country": "Cameroun",
+    "language": "Français",
+    "genre": ["Comédie", "Fantastique", "Drame"],
+    "synopsis": {
+      "short": "Dans un quartier populaire de Yaoundé, une jeune fille se transforme en homme pour explorer les dynamiques de pouvoir entre les sexes.",
+      "long": "Quartier Mozart est une comédie fantastique audacieuse qui explore les questions de genre, de pouvoir et d'identité dans le Cameroun urbain. Le film suit l'histoire de My'a, une jeune fille qui, grâce à des pouvoirs magiques, peut se transformer en homme. Cette transformation lui permet d'observer et de critiquer les comportements masculins et les structures patriarcales de sa société. Avec humour et perspicacité, Bekolo déconstruit les stéréotypes de genre tout en offrant un portrait vivant et coloré de la vie quotidienne à Yaoundé."
+    },
+    "director": {
+      "name": "Jean-Pierre Bekolo",
+      "slug": "jean-pierre-bekolo"
+    },
+    "cast": [
+      {
+        "name": "Joelle Bekolo",
+        "role": "Chef de quartier"
+      },
+      {
+        "name": "Jimmy Biyong",
+        "role": "Chien Méchant"
+      }
+    ],
+    "crew": [
+      {
+        "name": "Jean-Pierre Bekolo",
+        "role": "Réalisateur, Scénariste"
+      }
+    ],
+    "poster": "/images/films/quartier-mozart-poster.jpg",
+    "backdrop": "/images/films/quartier-mozart-backdrop.jpg",
+    "trailer": null,
+    "gallery": [
+      "/images/films/quartier-mozart-1.jpg",
+      "/images/films/quartier-mozart-2.jpg"
+    ],
+    "festivals": [
+      {
+        "name": "Festival de Cannes",
+        "year": 1992,
+        "section": "Un Certain Regard",
+        "award": null
+      }
+    ],
+    "press": [
+      {
+        "outlet": "Variety",
+        "quote": "Un film révolutionnaire qui a ouvert de nouvelles voies pour le cinéma africain.",
+        "author": "Lisa Anderson",
+        "date": "1992-05-20"
+      }
+    ],
+    "directorNote": "Quartier Mozart était ma façon de questionner les rôles de genre dans la société camerounaise. En utilisant la fantaisie et l'humour, j'ai pu aborder des sujets sérieux de manière accessible.",
+    "themes": ["Genre", "Pouvoir", "Identité", "Société urbaine"],
+    "relatedArticles": ["cinema-africain-annees-90"],
+    "pressKit": "/downloads/quartier-mozart-dossier.pdf"
+  }
+]

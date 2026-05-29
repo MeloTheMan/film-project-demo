@@ -1,0 +1,90 @@
+[
+  {
+    "id": "afrofuturisme",
+    "title": "Afrofuturisme",
+    "slug": "afrofuturisme",
+    "definition": "L'afrofuturisme est un mouvement culturel qui combine science-fiction, histoire africaine, technologie et imagination pour créer des récits alternatifs sur le passé, le présent et l'avenir des personnes d'ascendance africaine.",
+    "description": "L'afrofuturisme est né dans les années 1950-60 avec des écrivains comme Samuel R. Delany et Octavia Butler, mais le terme lui-même a été créé par Mark Dery en 1993. Ce mouvement explore comment la technologie, la science-fiction et la spéculation peuvent être utilisées pour réimaginer l'expérience africaine et diasporique.\n\nDans le cinéma, l'afrofuturisme permet aux réalisateurs de se libérer des contraintes du réalisme social et d'explorer des futurs alternatifs. Il offre un espace pour critiquer le colonialisme et le néocolonialisme tout en célébrant la créativité et la résilience africaines.\n\nLes caractéristiques de l'afrofuturisme incluent :\n- La fusion de la technologie et de la spiritualité africaine\n- La réappropriation de l'histoire et de la mémoire\n- L'imagination de futurs alternatifs\n- La critique des structures de pouvoir contemporaines\n- La célébration de l'identité et de la culture africaines\n\nAu cinéma, des réalisateurs comme Jean-Pierre Bekolo, Wanuri Kahiu, et plus récemment Ryan Coogler avec Black Panther, ont utilisé l'afrofuturisme pour créer des œuvres visuellement innovantes et politiquement engagées.",
+    "history": "Le terme 'afrofuturisme' a été créé par le critique culturel Mark Dery en 1993 dans son essai 'Black to the Future'. Cependant, les racines du mouvement remontent aux années 1950 avec des musiciens de jazz comme Sun Ra, qui mélangeait mythologie égyptienne et science-fiction dans ses performances.\n\nDans la littérature, des auteurs comme Samuel R. Delany, Octavia Butler, et Nalo Hopkinson ont exploré des thèmes afrofuturistes bien avant que le terme n'existe. Leurs œuvres questionnaient la place des personnes noires dans les récits de science-fiction et imaginaient des futurs où elles jouaient des rôles centraux.\n\nLe mouvement s'est ensuite étendu à d'autres formes d'art : musique (Parliament-Funkadelic, Janelle Monáe), arts visuels (Wangechi Mutu, Cyrus Kabiru), et cinéma. Aujourd'hui, l'afrofuturisme est reconnu comme un mouvement culturel majeur qui influence la culture populaire mondiale.",
+    "keyFigures": [
+      {
+        "name": "Sun Ra",
+        "field": "Musique",
+        "contribution": "Pionnier de l'afrofuturisme musical, mélangeant jazz et science-fiction"
+      },
+      {
+        "name": "Octavia Butler",
+        "field": "Littérature",
+        "contribution": "Auteure de science-fiction explorant race, genre et pouvoir"
+      },
+      {
+        "name": "Jean-Pierre Bekolo",
+        "field": "Cinéma",
+        "contribution": "Pionnier de l'afrofuturisme au cinéma africain"
+      },
+      {
+        "name": "Janelle Monáe",
+        "field": "Musique",
+        "contribution": "Artiste contemporaine incarnant l'esthétique afrofuturiste"
+      }
+    ],
+    "relatedFilms": ["le-gout-du-vin-de-palme", "quartier-mozart"],
+    "relatedArticles": ["afrofuturisme-cinema-africain"],
+    "resources": [
+      {
+        "title": "Black to the Future",
+        "author": "Mark Dery",
+        "type": "Essai",
+        "year": 1993
+      },
+      {
+        "title": "Afrofuturism: The World of Black Sci-Fi and Fantasy Culture",
+        "author": "Ytasha L. Womack",
+        "type": "Livre",
+        "year": 2013
+      }
+    ],
+    "featuredImage": "/images/concepts/afrofuturisme.jpg"
+  },
+  {
+    "id": "cinema-africain",
+    "title": "Cinéma Africain",
+    "slug": "cinema-africain",
+    "definition": "Le cinéma africain désigne l'ensemble des productions cinématographiques réalisées par des cinéastes africains ou traitant de sujets africains, caractérisé par sa diversité, son engagement social et sa recherche de formes narratives propres.",
+    "description": "Le cinéma africain a une histoire riche et complexe qui remonte aux années 1960, période des indépendances. Dès ses débuts, il s'est distingué par son engagement politique et social, cherchant à décoloniser les images et à raconter les histoires africaines du point de vue africain.\n\nLes pionniers comme Ousmane Sembène au Sénégal, considéré comme le père du cinéma africain, ont utilisé le cinéma comme un outil d'éducation et de conscientisation. Leurs films abordaient des thèmes comme le colonialisme, le néocolonialisme, la corruption et les tensions entre tradition et modernité.\n\nAu fil des décennies, le cinéma africain s'est diversifié. Les années 90 ont vu l'émergence d'une nouvelle génération de réalisateurs qui ont commencé à expérimenter avec les formes narratives et à explorer de nouveaux thèmes. Aujourd'hui, le cinéma africain est plus diversifié que jamais, allant du cinéma d'auteur au cinéma commercial, de la comédie au thriller, du documentaire à la science-fiction.\n\nMalgré les défis persistants (manque de financement, distribution limitée, infrastructures insuffisantes), le cinéma africain continue de produire des œuvres remarquables qui sont reconnues dans les festivals internationaux et qui influencent la culture cinématographique mondiale.",
+    "history": "L'histoire du cinéma africain peut être divisée en plusieurs périodes :\n\n**Les années coloniales (avant 1960)** : Le cinéma en Afrique était principalement produit par les puissances coloniales pour des fins de propagande ou d'ethnographie.\n\n**Les années 1960-70 : L'ère des pionniers** : Avec les indépendances, des cinéastes africains commencent à produire leurs propres films. Ousmane Sembène réalise La Noire de... (1966), considéré comme le premier long métrage africain. Cette période est marquée par un cinéma militant et engagé.\n\n**Les années 1980-90 : Diversification** : Une nouvelle génération de réalisateurs émerge, apportant de nouvelles perspectives et expérimentant avec les formes. Le FESPACO (Festival Panafricain du Cinéma et de la Télévision de Ouagadougou) devient un événement majeur.\n\n**Les années 2000-présent : Mondialisation et nouvelles technologies** : L'avènement du numérique démocratise la production. Le cinéma africain gagne en visibilité internationale. De nouveaux genres émergent, notamment Nollywood au Nigeria qui devient la deuxième industrie cinématographique mondiale en termes de volume.",
+    "keyFigures": [
+      {
+        "name": "Ousmane Sembène",
+        "field": "Cinéma",
+        "contribution": "Père du cinéma africain, pionnier du cinéma engagé"
+      },
+      {
+        "name": "Djibril Diop Mambéty",
+        "field": "Cinéma",
+        "contribution": "Réalisateur sénégalais connu pour son style poétique et subversif"
+      },
+      {
+        "name": "Souleymane Cissé",
+        "field": "Cinéma",
+        "contribution": "Réalisateur malien, lauréat du Prix du Jury à Cannes"
+      },
+      {
+        "name": "Jean-Pierre Bekolo",
+        "field": "Cinéma",
+        "contribution": "Pionnier de l'afrofuturisme et de l'expérimentation formelle"
+      }
+    ],
+    "relatedFilms": ["le-gout-du-vin-de-palme", "quartier-mozart"],
+    "relatedArticles": ["cinema-africain-annees-90"],
+    "resources": [
+      {
+        "title": "African Cinema: Politics and Culture",
+        "author": "Manthia Diawara",
+        "type": "Livre",
+        "year": 1992
+      }
+    ],
+    "featuredImage": "/images/concepts/cinema-africain.jpg"
+  }
+]

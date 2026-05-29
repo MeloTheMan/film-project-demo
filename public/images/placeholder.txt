@@ -1,0 +1,31 @@
+Images nécessaires pour le site :
+
+Films:
+- /images/films/vin-de-palme-poster.jpg (800x1200)
+- /images/films/vin-de-palme-backdrop.jpg (1920x1080)
+- /images/films/vin-de-palme-1.jpg
+- /images/films/vin-de-palme-2.jpg
+- /images/films/vin-de-palme-3.jpg
+- /images/films/quartier-mozart-poster.jpg (800x1200)
+- /images/films/quartier-mozart-backdrop.jpg (1920x1080)
+- /images/films/quartier-mozart-1.jpg
+- /images/films/quartier-mozart-2.jpg
+
+Réalisateurs:
+- /images/directors/bekolo.jpg (800x800)
+
+Articles:
+- /images/articles/afrofuturisme.jpg (1200x630)
+- /images/articles/bekolo-interview.jpg (1200x630)
+- /images/articles/cinema-90s.jpg (1200x630)
+
+Concepts:
+- /images/concepts/afrofuturisme.jpg (1200x630)
+- /images/concepts/cinema-africain.jpg (1200x630)
+
+Général:
+- /images/og-default.jpg (1200x630)
+- /images/logo.png (512x512)
+
+Note: Vous pouvez utiliser des services comme Unsplash, Pexels ou créer des images avec des outils comme Canva.
+Pour le développement, vous pouvez utiliser des placeholders comme https://placehold.co/

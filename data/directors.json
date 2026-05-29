@@ -1,0 +1,65 @@
+[
+  {
+    "id": "jean-pierre-bekolo",
+    "name": "Jean-Pierre Bekolo",
+    "birthDate": "1966-07-12",
+    "birthPlace": "Yaoundé, Cameroun",
+    "nationality": "Camerounaise",
+    "photo": "/images/directors/bekolo.jpg",
+    "biography": {
+      "short": "Cinéaste camerounais pionnier de l'afrofuturisme au cinéma, Jean-Pierre Bekolo est reconnu internationalement pour son approche innovante et sa critique sociale acérée.",
+      "long": "Jean-Pierre Bekolo est né à Yaoundé en 1966. Après des études de cinéma à l'INSAS à Bruxelles, il réalise son premier long métrage, Quartier Mozart, en 1992, qui est sélectionné à Cannes dans la section Un Certain Regard. Ce film marque le début d'une carrière consacrée à la déconstruction des codes du cinéma africain et à l'exploration de nouvelles formes narratives.\n\nBekolo est considéré comme l'un des pionniers de l'afrofuturisme au cinéma. Ses films mélangent science-fiction, critique politique, et réflexion sur l'identité africaine contemporaine. Il est également connu pour ses expérimentations formelles audacieuses et son utilisation innovante de la technologie.\n\nEn plus de son travail de réalisateur, Bekolo est un penseur influent sur le cinéma africain. Il a écrit de nombreux essais et manifestes sur la nécessité de créer de nouvelles formes de narration qui reflètent les réalités africaines contemporaines. Il a également fondé la République Virtuelle du Cameroun, un projet artistique et politique qui explore les possibilités de la citoyenneté virtuelle.\n\nSes films ont été présentés dans les festivals les plus prestigieux du monde, notamment Cannes, Berlin, Toronto, et le FESPACO. Il a reçu de nombreux prix pour son travail, dont le Prix Spécial du Jury au FESPACO."
+    },
+    "filmography": [
+      {
+        "title": "Quartier Mozart",
+        "year": 1992,
+        "slug": "quartier-mozart"
+      },
+      {
+        "title": "Aristotle's Plot",
+        "year": 1996,
+        "slug": null
+      },
+      {
+        "title": "Les Saignantes",
+        "year": 2005,
+        "slug": null
+      },
+      {
+        "title": "Le Président",
+        "year": 2013,
+        "slug": null
+      },
+      {
+        "title": "Le Goût du Vin de Palme",
+        "year": 2024,
+        "slug": "le-gout-du-vin-de-palme"
+      }
+    ],
+    "awards": [
+      {
+        "name": "Prix Spécial du Jury",
+        "festival": "FESPACO",
+        "year": 2025,
+        "film": "Le Goût du Vin de Palme"
+      },
+      {
+        "name": "Mention Spéciale",
+        "festival": "Festival de Cannes",
+        "year": 1992,
+        "film": "Quartier Mozart"
+      }
+    ],
+    "quotes": [
+      "Le cinéma africain doit inventer ses propres formes, pas imiter Hollywood ou l'Europe.",
+      "L'afrofuturisme n'est pas une évasion, c'est une façon de réimaginer notre présent.",
+      "Chaque film est un acte politique, même quand il ne parle pas directement de politique."
+    ],
+    "website": "https://jeanpierrebekolo.com",
+    "social": {
+      "twitter": "@jpbekolo",
+      "instagram": "@jeanpierrebekolo"
+    }
+  }
+]
